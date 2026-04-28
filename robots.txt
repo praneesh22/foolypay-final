@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foolypay-website.netlify.app/sitemap.xml
