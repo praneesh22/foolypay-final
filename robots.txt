@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://foolypay-website.netlify.app/sitemap.xml
+Sitemap: https://foolypay-website.vercel.app/sitemap.xml
